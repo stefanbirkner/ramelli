@@ -1,0 +1,11 @@
+Welcome to Ramelli
+
+Ramelli just started as a project. It will be your personal library, where you can search in software projects.
+
+The mast plan
+Release 0.1:
+* Load maven projects from SVN
+* Overview page with all your projects
+
+Release 1.0:
+* Search the source code
