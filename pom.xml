@@ -20,6 +20,7 @@
 	</developers>
 
 	<modules>
+		<module>ramelli-api</module>
 		<module>ramelli-library</module>
 	</modules>
 
